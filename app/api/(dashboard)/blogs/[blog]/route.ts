@@ -174,4 +174,4 @@ export const PATCH = async (request: Request, context: { params: any }) => {
             status: 500,
         });
         }
-  };
+};
